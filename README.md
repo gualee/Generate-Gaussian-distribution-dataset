@@ -1,6 +1,7 @@
 # Generate-Gaussian-distribution-dataset
+### 透過Python來產生高斯分布的資料集
 
-## 以下為演算法步驟：
+### 以下為演算法步驟：
 
 1.輸入維度為20及sample為100，產生mean vector為0、p1為0.9及p2為0.5的covariance matrix(建立一計算covariance matrix函式)
 
